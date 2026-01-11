@@ -7,8 +7,8 @@ axioms:
 definitions and properties:
 - addition: x + 0 = 0 (additive identity)
 - successor: x is the successor of y if and only if x = y + 1
-- adding a number to a number's successor equals that number's successor
-- i.e. 1+S(1)=S(1+1)
+- adding a number to another number's successor equals their sum's successor
+- i.e. 1+S(2)=S(1+2)
 
 proof of 2 + 2 = 4:
 - 2 is the successor of 1, so 1+1=2
