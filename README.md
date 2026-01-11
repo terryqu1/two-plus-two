@@ -1,10 +1,10 @@
 # two-plus-two
 proof of why 2+2=4
 
-axioms:
+define numbers:
 - These natural numbers exist in sequential order: 0, 1, 2, 3, 4, ...
 
-definitions and properties:
+axioms:
 - addition: x + 0 = 0 (additive identity)
 - successor: x is the successor of y if and only if x = y + 1
 - adding a number to another number's successor equals their sum's successor
